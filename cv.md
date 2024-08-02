@@ -4,19 +4,19 @@ Librarian and developer specializing in websites and code for supporting higher 
 
 - tkeswick@gmail.com
 - 310-256-3752
-- California
-- [drupal.org/u/tommyk](drupal.org/u/tommyk)
+- [github.com/t4k](github.com/t4k)
 - [linkedin.com/in/tommykeswick](linkedin.com/in/tommykeswick)
 
 ## Skills
 
 - Python & PHP scripting and application development
-- Drupal Website building
-- Sass/CSS
-- Training
 - AWS tools: EC2, S3, Lambda, CloudFront, API Gateway
-- workflow analysis
-- browser automation/testing with Playwright or Behat
+- CI/CD/GitHub Actions
+- Workflow analysis
+- Training
+- HTML/Sass/CSS/UI/UX
+- Browser automation/testing with Playwright or Behat
+- Drupal website building
 - and so much more!
 
 ## Work Experience
@@ -25,14 +25,17 @@ Librarian and developer specializing in websites and code for supporting higher 
 
 *California Institute of Technology* — November 2015 to Present
 
-Latest Projects & Activities:
+Selected Projects & Activities:
 
-- Migrated library.caltech.edu to a new platform with extensive customization. Wrote all Sass/CSS and JavaScript to overcome platform limitations. Developed an automated deployment system with GitHub Actions, Playwright, and custom Python scripts. See [github.com/caltechlibrary/libguine](github.com/caltechlibrary/libguine) for more. Wrote a web scraper for tracking changes to content due to lack of revisions in the CMS. See [github.com/caltechlibrary/overtime](github.com/caltechlibrary/overtime) for more.
-- Developing an automated digital preservation workflow to allow archivists to send files to multiple systems with the push of a button. Using Python, it calls the ArchivesSpace API for reading and writing archival object metadata, the Boto3 AWS SDK for Python for uploading files, custom scripts to interact with a tape server, and Drush (and the REST API) with Islandora 7 to publish access files. (Repository is currently private, but I am willing to selectively share with interested parties at this point.)
-- Serving on the Library Accessibility Committee and leading the Digital Spaces sub-group.
+- Co-managed a pilot project to rapidly photograph the Grubbs papers in order to analyze their contents with AI and machine learning tools.
+- Built a custom web interface for digital collections material using Python scripts, AWS S3, the ArchivesSpace API, and AWS Lambda to present IIIF images.
+- Created a GitHub Actions–based workflow for enabling Archivists to edit and publish oral histories transcripts using Markdown into a dynamic web interface that replaces static PDF files.
+- Developed an automated digital preservation workflow to allow archivists to send files and metadata to multiple systems with the push of a button. It uses Python, the ArchivesSpace API for reading and writing archival object metadata, and the Boto3 AWS SDK for Python for uploading files. The UI is currently being rewritten to leverage GitHub Issues and GitHub Actions for reduced code maintenance.
 - Deployed a serverless IIIF application to support our online course reserves system. Developed conversion scripts for scanned book images to be compatible with IIIF and the Universal Viewer. See [github.com/caltechlibrary/dibs](github.com/caltechlibrary/dibs) and [github.com/caltechlibrary/dibsiiif](github.com/caltechlibrary/dibsiiif) for more.
+- Continuous work with Caltech Archives & Special Collections to manipulate and migrate data between different types of records in ArchivesSpace, using Python.
+- Migrated library.caltech.edu to a new platform with extensive customization. Wrote all Sass/CSS and JavaScript to overcome platform limitations. Developed an automated deployment system with GitHub Actions, Playwright, and custom Python scripts. See [github.com/caltechlibrary/libguine](github.com/caltechlibrary/libguine) for more. Wrote a web scraper for tracking changes to content due to lack of revisions in the CMS. See [github.com/caltechlibrary/overtime](github.com/caltechlibrary/overtime) for more.
+- Committee service includes and has included co-leader of the Web Committee, member of the Library Accessibility Committee as leader of the Digital Spaces sub-group.
 - Instructor with the Library Software & Data Carpentry Team which includes teaching workshops on Git, Python, and Shell regularly.
-- Custom work with Caltech Archives & Special Collections to manipulate and migrate data between different types of records in ArchivesSpace, using Python.
 - Served on the CORAL Steering committee and contributed PHP code to the project. See [github.com/coral-erm](github.com/coral-erm) for more.
 
 ### Freelance Developer
